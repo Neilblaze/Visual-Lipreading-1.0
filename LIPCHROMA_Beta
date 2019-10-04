@@ -1,3 +1,4 @@
 $Serial.i/p 192.168.0.1
 temp=t
 switch x=t;
+//Incomplete
